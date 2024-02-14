@@ -287,6 +287,7 @@ h2 {
 .mobe-btn {
 	cursor: pointer;
 	font-family: WorkSans;
+  font-weight: bold;
 	color: #EEF2E3;
 	background-color: transparent;
 	border: 1px solid #ffffff;
