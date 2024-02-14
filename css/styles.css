@@ -266,27 +266,27 @@ main .content .description button:hover {
 /* upper small heading*/
 .top-text-para {
 	color: #C8F169;
-	font-family: workSansSemiBold;
+	font-family: WorkSans;
 	margin-bottom: 20px;
 }
 /* heading of mob section */
 h2 {
 	font-size: 48px;
-	font-family: NoticiaTextBold;
+	font-family: Noticia;
 	color: #ffffff;
 	margin-bottom: 28px;
 }
 /*description style*/
 .mode-text-description {
 	width: 64%;
-	font-family: workSansRegular;
+	font-family: WorkSans;
 	color: #EEF2E3;
 	margin-bottom: 36px;
 }
 /* button of mob section */
 .mobe-btn {
 	cursor: pointer;
-	font-family: workSansRegular;
+	font-family: WorkSans;
 	color: #EEF2E3;
 	background-color: transparent;
 	border: 1px solid #ffffff;
@@ -315,7 +315,7 @@ h2 {
 }
 /* right div p tag styling */
 .bi-text-description {
-	font-family: workSansRegular;
+	font-family: WorkSans;
 	color: #EEF2E3;
 	margin-bottom: 36px;
 }
